@@ -231,6 +231,7 @@ img {
   margin: 0 0 25px 0;
 }
 
+
 .about-us div p:nth-child(1) {
   color: #d69e3d;
   margin: 10px 0;
@@ -541,5 +542,24 @@ footer div {
     grid-row: 1 / 2;
   }
 
-  
+  .content {
+    margin: 65px 10px
+  }
+
+  .about-us {
+    margin: 0 154px;
+  }
+
+  .about-us h2 {
+    text-align: left;
+  }
+
+  .testimonials {
+    margin: 0 154px;
+  }
+
+  .testimonials h2 {
+    text-align: left;
+    width: 750px;
+  }
 }
